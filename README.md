@@ -1,4 +1,10 @@
-# 2LEIC04T1
+`An extension of the UNI mobile app, created through agile processes and software engineering metrics.`
+
+### Project Grade 17.1/20
+
+# PickUP
+
+![logo](https://user-images.githubusercontent.com/93782886/160712819-5d3450ed-89fd-4041-92d0-6aaefd90687d.png)
 
 ## Members
  - Guilherme de Sousa Carvalho -202005369
@@ -6,11 +12,6 @@
  - Francisco Rafael Pereira Teixeira - 202006111
  - José Leandro Rodrigues da Silva - 202008061
  - Luis Filipe Pinto Cunha - 201709375
-
-
-# PickUP
-
-![logo](https://user-images.githubusercontent.com/93782886/160712819-5d3450ed-89fd-4041-92d0-6aaefd90687d.png)
 
 
 ## Vision Stament
